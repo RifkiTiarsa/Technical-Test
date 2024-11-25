@@ -1,0 +1,1658 @@
+{
+  "data": {
+    "email": "",
+    "password": ""
+  },
+  "level": "info",
+  "msg": "Starting to binding a payload",
+  "time": "2024-11-23 23:43:50"
+}
+{
+  "data": {
+    "email": "tiarsarifki@gmail.com",
+    "password": "rahasia"
+  },
+  "level": "info",
+  "msg": "Starting to validation required fields for login",
+  "time": "2024-11-23 23:43:50"
+}
+{
+  "data": {
+    "email": "tiarsarifki@gmail.com",
+    "password": "rahasia"
+  },
+  "level": "info",
+  "msg": "Starting to login a customer",
+  "time": "2024-11-23 23:43:50"
+}
+{
+  "data": {
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lIjoiUmlma2kiLCJlbWFpbCI6InRpYXJzYXJpZmtpQGdtYWlsLmNvbSIsImlzcyI6InRpYXJzYXJpZmtpIiwiZXhwIjoxNzMyMzgzODMwLCJpYXQiOjE3MzIzODAyMzB9.cb7NXz3t0U3Q_i39PbCrXpprMWyt07Q6pOLPdtY-fB4"
+  },
+  "level": "info",
+  "msg": "Successfully logged in a customer",
+  "time": "2024-11-23 23:43:50"
+}
+{
+  "data": {
+    "id": 0,
+    "name": "",
+    "email": "",
+    "password": "******",
+    "created_at": "0001-01-01T00:00:00Z",
+    "updated_at": "0001-01-01T00:00:00Z"
+  },
+  "level": "info",
+  "msg": "Starting to binding a payload",
+  "time": "2024-11-23 23:54:52"
+}
+{
+  "data": {
+    "id": 0,
+    "name": "",
+    "email": "",
+    "password": "******",
+    "created_at": "0001-01-01T00:00:00Z",
+    "updated_at": "0001-01-01T00:00:00Z"
+  },
+  "level": "info",
+  "msg": "Starting to validation required fields for login",
+  "time": "2024-11-23 23:54:52"
+}
+{
+  "data": {
+    "id": 0,
+    "name": "",
+    "email": "",
+    "password": "******",
+    "created_at": "0001-01-01T00:00:00Z",
+    "updated_at": "0001-01-01T00:00:00Z"
+  },
+  "level": "info",
+  "msg": "Starting to login a customer",
+  "time": "2024-11-23 23:54:52"
+}
+{
+  "data": {
+    "id": 0,
+    "name": "",
+    "email": "",
+    "password": "******",
+    "created_at": "0001-01-01T00:00:00Z",
+    "updated_at": "0001-01-01T00:00:00Z"
+  },
+  "level": "info",
+  "msg": "Successfully logged in a customer",
+  "time": "2024-11-23 23:54:52"
+}
+{
+  "data": null,
+  "level": "info",
+  "msg": "Starting to binding a payload",
+  "time": "2024-11-24 00:10:18"
+}
+{
+  "data": {
+    "email": "tiarsarifki@gmail.com",
+    "password": "rahasia"
+  },
+  "level": "info",
+  "msg": "Starting to validation required fields for login",
+  "time": "2024-11-24 00:10:18"
+}
+{
+  "data": {
+    "email": "tiarsarifki@gmail.com",
+    "password": "rahasia"
+  },
+  "level": "info",
+  "msg": "Starting to login a customer",
+  "time": "2024-11-24 00:10:18"
+}
+{
+  "data": {
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lIjoiUmlma2kiLCJlbWFpbCI6InRpYXJzYXJpZmtpQGdtYWlsLmNvbSIsImlzcyI6InRpYXJzYXJpZmtpIiwiZXhwIjoxNzMyMzg1NDE5LCJpYXQiOjE3MzIzODE4MTl9.9psyxHMf5-LedhzedVB4v9MMzuMZgiOM_OQuo-wRJII"
+  },
+  "level": "info",
+  "msg": "Successfully logged in a customer",
+  "time": "2024-11-24 00:10:19"
+}
+{
+  "data": null,
+  "level": "info",
+  "msg": "Starting to binding a payload",
+  "time": "2024-11-24 00:12:45"
+}
+{
+  "data": {
+    "email": "tiarsarifki@gmail.com",
+    "password": "rahasia"
+  },
+  "level": "info",
+  "msg": "Starting to validation required fields for login",
+  "time": "2024-11-24 00:12:45"
+}
+{
+  "data": {
+    "email": "tiarsarifki@gmail.com",
+    "password": "rahasia"
+  },
+  "level": "info",
+  "msg": "Starting to login a customer",
+  "time": "2024-11-24 00:12:45"
+}
+{
+  "data": {
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lIjoiUmlma2kiLCJlbWFpbCI6InRpYXJzYXJpZmtpQGdtYWlsLmNvbSIsImlzcyI6InRpYXJzYXJpZmtpIiwiZXhwIjoxNzMyMzg1NTY1LCJpYXQiOjE3MzIzODE5NjV9.4KGwBP_SKWVDy5CawcL6cVc8NF0Jc8HDvLHDeqwndvc"
+  },
+  "level": "info",
+  "msg": "Successfully logged in a customer",
+  "time": "2024-11-24 00:12:45"
+}
+{
+  "data": null,
+  "level": "info",
+  "msg": "Starting to binding a payload",
+  "time": "2024-11-24 00:14:40"
+}
+{
+  "data": {
+    "email": "tiarsarifki@gmail.com",
+    "password": "*****"
+  },
+  "level": "info",
+  "msg": "Starting to validation required fields for login",
+  "time": "2024-11-24 00:14:40"
+}
+{
+  "data": {
+    "email": "tiarsarifki@gmail.com",
+    "password": "*****"
+  },
+  "level": "info",
+  "msg": "Starting to login a customer",
+  "time": "2024-11-24 00:14:40"
+}
+{
+  "data": {
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lIjoiUmlma2kiLCJlbWFpbCI6InRpYXJzYXJpZmtpQGdtYWlsLmNvbSIsImlzcyI6InRpYXJzYXJpZmtpIiwiZXhwIjoxNzMyMzg1NjgwLCJpYXQiOjE3MzIzODIwODB9.pmF-X7-Qw1NbpOyhc0vSoQ6Nvx-60ZxLeGnynFfwXMc"
+  },
+  "level": "info",
+  "msg": "Successfully logged in a customer",
+  "time": "2024-11-24 00:14:40"
+}
+{
+  "data": null,
+  "level": "info",
+  "msg": "Starting to binding a payload",
+  "time": "2024-11-24 10:43:59"
+}
+{
+  "data": {
+    "email": "tiarsarifki@gmail.com",
+    "password": "*****"
+  },
+  "level": "info",
+  "msg": "Starting to validation required fields a new customer",
+  "time": "2024-11-24 10:43:59"
+}
+{
+  "data": {
+    "email": "tiarsarifki@gmail.com",
+    "password": "*****"
+  },
+  "level": "info",
+  "msg": "Starting to create a new customer",
+  "time": "2024-11-24 10:43:59"
+}
+{
+  "data": "Email already registered",
+  "level": "error",
+  "msg": "Failed to create a new customer",
+  "time": "2024-11-24 10:43:59"
+}
+{
+  "data": null,
+  "level": "info",
+  "msg": "Starting to binding a payload",
+  "time": "2024-11-24 10:44:39"
+}
+{
+  "data": {
+    "email": "",
+    "password": "*****"
+  },
+  "level": "info",
+  "msg": "Starting to validation required fields a new customer",
+  "time": "2024-11-24 10:44:39"
+}
+{
+  "data": {
+    "id": 0,
+    "name": "Rifki",
+    "email": "",
+    "password": "rahasia",
+    "created_at": "0001-01-01T00:00:00Z",
+    "updated_at": "0001-01-01T00:00:00Z"
+  },
+  "level": "error",
+  "msg": "Missing required fields for a new customer",
+  "time": "2024-11-24 10:44:39"
+}
+{
+  "data": null,
+  "level": "info",
+  "msg": "Starting to binding a payload",
+  "time": "2024-11-24 10:45:06"
+}
+{
+  "data": {
+    "email": "tiarsarifki@gmail.com",
+    "password": "*****"
+  },
+  "level": "info",
+  "msg": "Starting to validation required fields for login",
+  "time": "2024-11-24 10:45:06"
+}
+{
+  "data": {
+    "email": "tiarsarifki@gmail.com",
+    "password": "*****"
+  },
+  "level": "info",
+  "msg": "Starting to login a customer",
+  "time": "2024-11-24 10:45:06"
+}
+{
+  "data": "Invalid email or password",
+  "level": "error",
+  "msg": "Failed to login a customer",
+  "time": "2024-11-24 10:45:06"
+}
+{
+  "data": null,
+  "level": "info",
+  "msg": "Starting to binding a payload",
+  "time": "2024-11-25 09:07:38"
+}
+{
+  "data": {
+    "id": 0,
+    "name": "Joko reload",
+    "balance": 1000000,
+    "created_at": "0001-01-01T00:00:00Z",
+    "updated_at": "0001-01-01T00:00:00Z"
+  },
+  "level": "info",
+  "msg": "Starting to create a new merchant",
+  "time": "2024-11-25 09:07:38"
+}
+{
+  "data": "sql: Scan error on column index 0, name \"id\": unsupported Scan, storing driver.Value type int64 into type *entity.Merchant",
+  "level": "error",
+  "msg": "Failed to create merchant",
+  "time": "2024-11-25 09:07:38"
+}
+{
+  "data": null,
+  "level": "info",
+  "msg": "Starting to binding a payload",
+  "time": "2024-11-25 09:08:42"
+}
+{
+  "data": {
+    "id": 0,
+    "name": "Joko reload",
+    "balance": 1000000,
+    "created_at": "0001-01-01T00:00:00Z",
+    "updated_at": "0001-01-01T00:00:00Z"
+  },
+  "level": "info",
+  "msg": "Starting to create a new merchant",
+  "time": "2024-11-25 09:08:42"
+}
+{
+  "data": "pq: duplicate key value violates unique constraint \"merchants_name_key\"",
+  "level": "error",
+  "msg": "Failed to create merchant",
+  "time": "2024-11-25 09:08:42"
+}
+{
+  "data": null,
+  "level": "info",
+  "msg": "Starting to binding a payload",
+  "time": "2024-11-25 09:10:27"
+}
+{
+  "data": {
+    "id": 0,
+    "name": "Joko reload",
+    "balance": 1000000,
+    "created_at": "0001-01-01T00:00:00Z",
+    "updated_at": "0001-01-01T00:00:00Z"
+  },
+  "level": "info",
+  "msg": "Starting to create a new merchant",
+  "time": "2024-11-25 09:10:27"
+}
+{
+  "data": {
+    "id": 3,
+    "name": "Joko reload",
+    "balance": 1000000,
+    "created_at": "2024-11-25T09:10:27.460102146+07:00",
+    "updated_at": "2024-11-25T09:10:27.460102249+07:00"
+  },
+  "level": "info",
+  "msg": "Successfully created merchant",
+  "time": "2024-11-25 09:10:27"
+}
+{
+  "data": null,
+  "level": "info",
+  "msg": "Starting to binding a payload",
+  "time": "2024-11-25 09:23:26"
+}
+{
+  "data": {
+    "id": 0,
+    "merchant_id": 3,
+    "name": "Ovo 10rb",
+    "nominal": 10000,
+    "price": 11000,
+    "created_at": "0001-01-01T00:00:00Z",
+    "updated_at": "0001-01-01T00:00:00Z"
+  },
+  "level": "info",
+  "msg": "Starting to create a new product",
+  "time": "2024-11-25 09:23:26"
+}
+{
+  "data": {
+    "id": 1,
+    "merchant_id": 3,
+    "name": "Ovo 10rb",
+    "nominal": 10000,
+    "price": 11000,
+    "created_at": "2024-11-25T09:23:26.433964808+07:00",
+    "updated_at": "2024-11-25T09:23:26.433964884+07:00"
+  },
+  "level": "info",
+  "msg": "Successfully created a new product",
+  "time": "2024-11-25 09:23:26"
+}
+{
+  "data": null,
+  "level": "info",
+  "msg": "Starting to binding a payload",
+  "time": "2024-11-25 11:03:27"
+}
+{
+  "data": {
+    "id": 0,
+    "customer_id": 3,
+    "merchant_id": 3,
+    "product_id": 1,
+    "payment_method": "BCA",
+    "created_at": "0001-01-01T00:00:00Z",
+    "updated_at": "0001-01-01T00:00:00Z"
+  },
+  "level": "info",
+  "msg": "Starting to create a new topup",
+  "time": "2024-11-25 11:03:27"
+}
+{
+  "data": "pq: new row for relation \"topups\" violates check constraint \"topups_status_check\"",
+  "level": "error",
+  "msg": "Failed to create topup",
+  "time": "2024-11-25 11:03:27"
+}
+{
+  "data": null,
+  "level": "info",
+  "msg": "Starting to binding a payload",
+  "time": "2024-11-25 11:10:56"
+}
+{
+  "data": {
+    "id": 0,
+    "customer_id": 3,
+    "merchant_id": 3,
+    "product_id": 1,
+    "payment_method": "BCA",
+    "created_at": "0001-01-01T00:00:00Z",
+    "updated_at": "0001-01-01T00:00:00Z"
+  },
+  "level": "info",
+  "msg": "Starting to create a new topup",
+  "time": "2024-11-25 11:10:56"
+}
+{
+  "data": {
+    "id": 2,
+    "customer_id": 3,
+    "merchant_id": 3,
+    "product_id": 1,
+    "payment_method": "BCA",
+    "status": "pending",
+    "created_at": "2024-11-25T11:10:56.665172523+07:00",
+    "updated_at": "2024-11-25T11:10:56.665172585+07:00"
+  },
+  "level": "info",
+  "msg": "Successfully created topup",
+  "time": "2024-11-25 11:10:56"
+}
+{
+  "data": null,
+  "level": "info",
+  "msg": "Starting to binding a payload",
+  "time": "2024-11-25 11:12:19"
+}
+{
+  "data": {
+    "id": 0,
+    "customer_id": 3,
+    "merchant_id": 3,
+    "product_id": 1,
+    "payment_method": "BCA",
+    "created_at": "0001-01-01T00:00:00Z",
+    "updated_at": "0001-01-01T00:00:00Z"
+  },
+  "level": "info",
+  "msg": "Starting to create a new topup",
+  "time": "2024-11-25 11:12:19"
+}
+{
+  "data": {
+    "id": 3,
+    "customer_id": 3,
+    "merchant_id": 3,
+    "product_id": 1,
+    "payment_method": "BCA",
+    "status": "pending",
+    "created_at": "2024-11-25T11:12:19.605108912+07:00",
+    "updated_at": "2024-11-25T11:12:19.605108984+07:00"
+  },
+  "level": "info",
+  "msg": "Successfully created topup",
+  "time": "2024-11-25 11:12:19"
+}
+{
+  "data": null,
+  "level": "info",
+  "msg": "Starting to binding a payload",
+  "time": "2024-11-25 12:04:36"
+}
+{
+  "data": {
+    "id": 0,
+    "customer_id": 3,
+    "merchant_id": 3,
+    "product_id": 1,
+    "payment_method": "BCA",
+    "created_at": "0001-01-01T00:00:00Z",
+    "updated_at": "0001-01-01T00:00:00Z"
+  },
+  "level": "info",
+  "msg": "Starting to create a new topup",
+  "time": "2024-11-25 12:04:36"
+}
+{
+  "data": {
+    "id": 4,
+    "customer_id": 3,
+    "merchant_id": 3,
+    "product_id": 1,
+    "payment_method": "BCA",
+    "status": "pending",
+    "created_at": "2024-11-25T12:04:36.895569873+07:00",
+    "updated_at": "2024-11-25T12:04:36.89556995+07:00"
+  },
+  "level": "info",
+  "msg": "Successfully created topup",
+  "time": "2024-11-25 12:04:36"
+}
+{
+  "data": null,
+  "level": "info",
+  "msg": "Starting to binding a payload",
+  "time": "2024-11-25 12:10:33"
+}
+{
+  "data": {
+    "id": 0,
+    "customer_id": 3,
+    "merchant_id": 3,
+    "product_id": 1,
+    "payment_method": "BCA",
+    "created_at": "0001-01-01T00:00:00Z",
+    "updated_at": "0001-01-01T00:00:00Z"
+  },
+  "level": "info",
+  "msg": "Starting to create a new topup",
+  "time": "2024-11-25 12:10:33"
+}
+{
+  "data": {
+    "id": 5,
+    "customer_id": 3,
+    "merchant_id": 3,
+    "product_id": 1,
+    "payment_method": "BCA",
+    "status": "pending",
+    "created_at": "2024-11-25T12:10:33.476821392+07:00",
+    "updated_at": "2024-11-25T12:10:33.476821481+07:00"
+  },
+  "level": "info",
+  "msg": "Successfully created topup",
+  "time": "2024-11-25 12:10:33"
+}
+{
+  "data": null,
+  "level": "info",
+  "msg": "Starting to binding a payload",
+  "time": "2024-11-25 12:13:54"
+}
+{
+  "data": {
+    "id": 0,
+    "customer_id": 3,
+    "merchant_id": 3,
+    "product_id": 1,
+    "payment_method": "BCA",
+    "created_at": "0001-01-01T00:00:00Z",
+    "updated_at": "0001-01-01T00:00:00Z"
+  },
+  "level": "info",
+  "msg": "Starting to create a new topup",
+  "time": "2024-11-25 12:13:54"
+}
+{
+  "data": {
+    "id": 6,
+    "customer_id": 3,
+    "merchant_id": 3,
+    "product_id": 1,
+    "payment_method": "BCA",
+    "status": "pending",
+    "created_at": "2024-11-25T12:13:54.254389378+07:00",
+    "updated_at": "2024-11-25T12:13:54.25438944+07:00"
+  },
+  "level": "info",
+  "msg": "Successfully created topup",
+  "time": "2024-11-25 12:13:54"
+}
+{
+  "data": null,
+  "level": "info",
+  "msg": "Starting to binding a payload",
+  "time": "2024-11-25 12:14:09"
+}
+{
+  "data": {
+    "id": 0,
+    "customer_id": 3,
+    "merchant_id": 3,
+    "product_id": 1,
+    "payment_method": "BCA",
+    "created_at": "0001-01-01T00:00:00Z",
+    "updated_at": "0001-01-01T00:00:00Z"
+  },
+  "level": "info",
+  "msg": "Starting to create a new topup",
+  "time": "2024-11-25 12:14:09"
+}
+{
+  "data": {
+    "id": 7,
+    "customer_id": 3,
+    "merchant_id": 3,
+    "product_id": 1,
+    "payment_method": "BCA",
+    "status": "pending",
+    "created_at": "2024-11-25T12:14:09.290521264+07:00",
+    "updated_at": "2024-11-25T12:14:09.290521493+07:00"
+  },
+  "level": "info",
+  "msg": "Successfully created topup",
+  "time": "2024-11-25 12:14:09"
+}
+{
+  "data": null,
+  "level": "info",
+  "msg": "Starting to binding a payload",
+  "time": "2024-11-25 14:37:49"
+}
+{
+  "data": {
+    "topup_id": 7,
+    "amount": 10000,
+    "price": 11000,
+    "payment_method": "BCA",
+    "payment_status": "Done"
+  },
+  "level": "info",
+  "msg": "Get the data needed for the update",
+  "time": "2024-11-25 14:37:49"
+}
+{
+  "data": {
+    "topup_id": 7,
+    "amount": 10000,
+    "price": 0,
+    "payment_method": "BCA",
+    "payment_status": "Done"
+  },
+  "level": "info",
+  "msg": "Starting to update the topup data",
+  "time": "2024-11-25 14:37:49"
+}
+{
+  "data": "pq: new row for relation \"topups\" violates check constraint \"topups_status_check\"",
+  "level": "error",
+  "msg": "Failed to update topup",
+  "time": "2024-11-25 14:37:49"
+}
+{
+  "data": null,
+  "level": "info",
+  "msg": "Starting to binding a payload",
+  "time": "2024-11-25 14:40:04"
+}
+{
+  "data": {
+    "topup_id": 7,
+    "amount": 10000,
+    "price": 11000,
+    "payment_method": "BCA",
+    "payment_status": "Done"
+  },
+  "level": "info",
+  "msg": "Get the data needed for the update",
+  "time": "2024-11-25 14:40:04"
+}
+{
+  "data": {
+    "topup_id": 7,
+    "amount": 10000,
+    "price": 11000,
+    "payment_method": "BCA",
+    "payment_status": "Done"
+  },
+  "level": "info",
+  "msg": "Starting to update the topup data",
+  "time": "2024-11-25 14:40:04"
+}
+{
+  "data": "pq: new row for relation \"topups\" violates check constraint \"topups_status_check\"",
+  "level": "error",
+  "msg": "Failed to update topup",
+  "time": "2024-11-25 14:40:04"
+}
+{
+  "data": "7",
+  "level": "info",
+  "msg": "Starting to get topup by ID",
+  "time": "2024-11-25 14:57:15"
+}
+{
+  "data": {
+    "id": 7,
+    "customer_id": 3,
+    "merchant_id": 3,
+    "product_id": 1,
+    "payment_method": "BCA",
+    "status": "pending",
+    "created_at": "2024-11-25T12:14:09.290521Z",
+    "updated_at": "2024-11-25T12:14:09.290521Z"
+  },
+  "level": "info",
+  "msg": "Successfully fetched topup",
+  "time": "2024-11-25 14:57:15"
+}
+{
+  "data": null,
+  "level": "info",
+  "msg": "Starting to binding a payload",
+  "time": "2024-11-25 14:57:33"
+}
+{
+  "data": {
+    "topup_id": 7,
+    "amount": 10000,
+    "price": 11000,
+    "payment_method": "BCA",
+    "payment_status": "Done"
+  },
+  "level": "info",
+  "msg": "Starting to update the topup data",
+  "time": "2024-11-25 14:57:33"
+}
+{
+  "data": "pq: new row for relation \"topups\" violates check constraint \"topups_status_check\"",
+  "level": "error",
+  "msg": "Failed to update topup",
+  "time": "2024-11-25 14:57:33"
+}
+{
+  "data": null,
+  "level": "info",
+  "msg": "Starting to binding a payload",
+  "time": "2024-11-25 14:59:12"
+}
+{
+  "data": {
+    "topup_id": 7,
+    "amount": 10000,
+    "price": 11000,
+    "payment_method": "BCA",
+    "payment_status": "Done"
+  },
+  "level": "info",
+  "msg": "Starting to update the topup data",
+  "time": "2024-11-25 14:59:12"
+}
+{
+  "data": 7,
+  "level": "info",
+  "msg": "Successfully updated topup",
+  "time": "2024-11-25 14:59:12"
+}
+{
+  "data": null,
+  "level": "info",
+  "msg": "Starting to binding a payload",
+  "time": "2024-11-25 15:46:19"
+}
+{
+  "data": {
+    "id": 0,
+    "customer_id": 3,
+    "merchant_id": 3,
+    "product_id": 1,
+    "payment_method": "BRI",
+    "created_at": "0001-01-01T00:00:00Z",
+    "updated_at": "0001-01-01T00:00:00Z"
+  },
+  "level": "info",
+  "msg": "Starting to create a new topup",
+  "time": "2024-11-25 15:46:19"
+}
+{
+  "data": {
+    "id": 8,
+    "customer_id": 3,
+    "merchant_id": 3,
+    "product_id": 1,
+    "payment_method": "BRI",
+    "status": "pending",
+    "created_at": "2024-11-25T15:46:19.171443691+07:00",
+    "updated_at": "2024-11-25T15:46:19.171443777+07:00"
+  },
+  "level": "info",
+  "msg": "Successfully created topup",
+  "time": "2024-11-25 15:46:19"
+}
+{
+  "data": null,
+  "level": "info",
+  "msg": "Starting to binding a payload",
+  "time": "2024-11-25 15:47:04"
+}
+{
+  "data": {
+    "topup_id": 8,
+    "amount": 10000,
+    "price": 11000,
+    "payment_method": "BRI",
+    "payment_status": "Done"
+  },
+  "level": "info",
+  "msg": "Starting to update the topup data",
+  "time": "2024-11-25 15:47:04"
+}
+{
+  "data": null,
+  "level": "info",
+  "msg": "Successfully updated topup",
+  "time": "2024-11-25 15:47:04"
+}
+{
+  "data": null,
+  "level": "info",
+  "msg": "Starting to binding a payload",
+  "time": "2024-11-25 15:49:42"
+}
+{
+  "data": {
+    "id": 0,
+    "customer_id": 3,
+    "merchant_id": 3,
+    "product_id": 1,
+    "payment_method": "BNI",
+    "created_at": "0001-01-01T00:00:00Z",
+    "updated_at": "0001-01-01T00:00:00Z"
+  },
+  "level": "info",
+  "msg": "Starting to create a new topup",
+  "time": "2024-11-25 15:49:42"
+}
+{
+  "data": {
+    "id": 9,
+    "customer_id": 3,
+    "merchant_id": 3,
+    "product_id": 1,
+    "payment_method": "BNI",
+    "status": "pending",
+    "created_at": "2024-11-25T15:49:42.329915644+07:00",
+    "updated_at": "2024-11-25T15:49:42.329915723+07:00"
+  },
+  "level": "info",
+  "msg": "Successfully created topup",
+  "time": "2024-11-25 15:49:42"
+}
+{
+  "data": null,
+  "level": "info",
+  "msg": "Starting to binding a payload",
+  "time": "2024-11-25 15:50:48"
+}
+{
+  "data": {
+    "topup_id": 9,
+    "amount": 10000,
+    "price": 11000,
+    "payment_method": "BNI",
+    "payment_status": "Done"
+  },
+  "level": "info",
+  "msg": "Starting to update the topup data",
+  "time": "2024-11-25 15:50:48"
+}
+{
+  "data": "pq: relation \"merchantss\" does not exist",
+  "level": "error",
+  "msg": "Failed to update topup",
+  "time": "2024-11-25 15:50:48"
+}
+{
+  "data": null,
+  "level": "info",
+  "msg": "Starting to binding a payload",
+  "time": "2024-11-25 18:06:13"
+}
+{
+  "data": {
+    "email": "tiarsarifki@gmail.com",
+    "password": "*****"
+  },
+  "level": "info",
+  "msg": "Starting to validation required fields for login",
+  "time": "2024-11-25 18:06:13"
+}
+{
+  "data": {
+    "email": "tiarsarifki@gmail.com",
+    "password": "*****"
+  },
+  "level": "info",
+  "msg": "Starting to login a customer",
+  "time": "2024-11-25 18:06:13"
+}
+{
+  "data": {
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lIjoiUmlma2kiLCJlbWFpbCI6InRpYXJzYXJpZmtpQGdtYWlsLmNvbSIsImlzcyI6InRpYXJzYXJpZmtpIiwiZXhwIjoxNzMyNTM2MzczLCJpYXQiOjE3MzI1MzI3NzN9.jHcP-6j9FSOMNbsODElliNccsmLQJ-i8d-q0QcVk8a8"
+  },
+  "level": "info",
+  "msg": "Successfully logged in a customer",
+  "time": "2024-11-25 18:06:13"
+}
+{
+  "data": null,
+  "level": "info",
+  "msg": "Starting to binding a payload",
+  "time": "2024-11-25 18:07:08"
+}
+{
+  "data": {
+    "id": 0,
+    "customer_id": 3,
+    "merchant_id": 3,
+    "product_id": 1,
+    "payment_method": "Mandiri",
+    "created_at": "0001-01-01T00:00:00Z",
+    "updated_at": "0001-01-01T00:00:00Z"
+  },
+  "level": "info",
+  "msg": "Starting to create a new topup",
+  "time": "2024-11-25 18:07:08"
+}
+{
+  "data": {
+    "id": 10,
+    "customer_id": 3,
+    "merchant_id": 3,
+    "product_id": 1,
+    "payment_method": "Mandiri",
+    "status": "pending",
+    "created_at": "2024-11-25T18:07:08.693159373+07:00",
+    "updated_at": "2024-11-25T18:07:08.693159456+07:00"
+  },
+  "level": "info",
+  "msg": "Successfully created topup",
+  "time": "2024-11-25 18:07:08"
+}
+{
+  "data": null,
+  "level": "info",
+  "msg": "Starting to binding a payload",
+  "time": "2024-11-25 18:08:18"
+}
+{
+  "data": {
+    "topup_id": 10,
+    "amount": 10000,
+    "price": 11000,
+    "payment_method": "MANDIRI",
+    "payment_status": "Done"
+  },
+  "level": "info",
+  "msg": "Starting to update the topup data",
+  "time": "2024-11-25 18:08:18"
+}
+{
+  "data": null,
+  "level": "info",
+  "msg": "Successfully updated topup",
+  "time": "2024-11-25 18:08:18"
+}
+{
+  "data": null,
+  "level": "info",
+  "msg": "Starting to binding a payload",
+  "time": "2024-11-25 19:31:59"
+}
+{
+  "data": {
+    "email": "tiarsarifki@gmail.com",
+    "password": "*****"
+  },
+  "level": "info",
+  "msg": "Starting to validation required fields for login",
+  "time": "2024-11-25 19:31:59"
+}
+{
+  "data": {
+    "email": "tiarsarifki@gmail.com",
+    "password": "*****"
+  },
+  "level": "info",
+  "msg": "Starting to login a customer",
+  "time": "2024-11-25 19:31:59"
+}
+{
+  "data": {
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lIjoiUmlma2kiLCJlbWFpbCI6InRpYXJzYXJpZmtpQGdtYWlsLmNvbSIsImlzcyI6InRpYXJzYXJpZmtpIiwiZXhwIjoxNzMyNTQxNTE5LCJpYXQiOjE3MzI1Mzc5MTl9.ZXf3nKKFJis_lGXEqNinTGJnsRO1bbG6wcO3ncdofoo"
+  },
+  "level": "info",
+  "msg": "Successfully logged in a customer",
+  "time": "2024-11-25 19:31:59"
+}
+{
+  "data": null,
+  "level": "info",
+  "msg": "Starting to binding a payload",
+  "time": "2024-11-25 19:32:44"
+}
+{
+  "data": {
+    "id": 0,
+    "customer_id": 3,
+    "merchant_id": 3,
+    "product_id": 1,
+    "payment_method": "Mandiri",
+    "created_at": "0001-01-01T00:00:00Z",
+    "updated_at": "0001-01-01T00:00:00Z"
+  },
+  "level": "info",
+  "msg": "Starting to create a new topup",
+  "time": "2024-11-25 19:32:44"
+}
+{
+  "data": {
+    "id": 11,
+    "customer_id": 3,
+    "merchant_id": 3,
+    "product_id": 1,
+    "payment_method": "Mandiri",
+    "status": "pending",
+    "created_at": "2024-11-25T19:32:44.059964785+07:00",
+    "updated_at": "2024-11-25T19:32:44.059964851+07:00"
+  },
+  "level": "info",
+  "msg": "Successfully created topup",
+  "time": "2024-11-25 19:32:44"
+}
+{
+  "data": null,
+  "level": "error",
+  "msg": "No token provided",
+  "time": "2024-11-25 19:34:17"
+}
+{
+  "data": "dial tcp 127.0.0.1:6379: connect: connection refused",
+  "level": "error",
+  "msg": "Failed to add token to blacklist",
+  "time": "2024-11-25 19:34:30"
+}
+{
+  "data": null,
+  "level": "info",
+  "msg": "Logged out successfully",
+  "time": "2024-11-25 19:40:13"
+}
+{
+  "data": null,
+  "level": "info",
+  "msg": "Starting to binding a payload",
+  "time": "2024-11-25 19:40:27"
+}
+{
+  "data": {
+    "topup_id": 11,
+    "amount": 10000,
+    "price": 11000,
+    "payment_method": "MANDIRI",
+    "payment_status": "Done"
+  },
+  "level": "info",
+  "msg": "Starting to update the topup data",
+  "time": "2024-11-25 19:40:27"
+}
+{
+  "data": null,
+  "level": "info",
+  "msg": "Successfully updated topup",
+  "time": "2024-11-25 19:40:27"
+}
+{
+  "data": null,
+  "level": "info",
+  "msg": "Logged out successfully",
+  "time": "2024-11-25 19:48:42"
+}
+{
+  "data": null,
+  "level": "info",
+  "msg": "Starting to binding a payload",
+  "time": "2024-11-25 19:48:49"
+}
+{
+  "data": {
+    "id": 0,
+    "customer_id": 3,
+    "merchant_id": 3,
+    "product_id": 1,
+    "payment_method": "Mandiri",
+    "created_at": "0001-01-01T00:00:00Z",
+    "updated_at": "0001-01-01T00:00:00Z"
+  },
+  "level": "info",
+  "msg": "Starting to create a new topup",
+  "time": "2024-11-25 19:48:49"
+}
+{
+  "data": {
+    "id": 12,
+    "customer_id": 3,
+    "merchant_id": 3,
+    "product_id": 1,
+    "payment_method": "Mandiri",
+    "status": "pending",
+    "created_at": "2024-11-25T19:48:49.235500316+07:00",
+    "updated_at": "2024-11-25T19:48:49.2355004+07:00"
+  },
+  "level": "info",
+  "msg": "Successfully created topup",
+  "time": "2024-11-25 19:48:49"
+}
+{
+  "data": null,
+  "level": "info",
+  "msg": "Logged out successfully",
+  "time": "2024-11-25 19:53:23"
+}
+{
+  "data": null,
+  "level": "info",
+  "msg": "Starting to binding a payload",
+  "time": "2024-11-25 19:53:35"
+}
+{
+  "data": {
+    "id": 0,
+    "customer_id": 3,
+    "merchant_id": 3,
+    "product_id": 1,
+    "payment_method": "BCA",
+    "created_at": "0001-01-01T00:00:00Z",
+    "updated_at": "0001-01-01T00:00:00Z"
+  },
+  "level": "info",
+  "msg": "Starting to create a new topup",
+  "time": "2024-11-25 19:53:35"
+}
+{
+  "data": {
+    "id": 13,
+    "customer_id": 3,
+    "merchant_id": 3,
+    "product_id": 1,
+    "payment_method": "BCA",
+    "status": "pending",
+    "created_at": "2024-11-25T19:53:35.739815391+07:00",
+    "updated_at": "2024-11-25T19:53:35.739815483+07:00"
+  },
+  "level": "info",
+  "msg": "Successfully created topup",
+  "time": "2024-11-25 19:53:35"
+}
+{
+  "data": null,
+  "level": "info",
+  "msg": "Logged out successfully",
+  "time": "2024-11-25 21:35:47"
+}
+{
+  "data": null,
+  "level": "info",
+  "msg": "Starting to binding a payload",
+  "time": "2024-11-25 21:39:14"
+}
+{
+  "data": {
+    "email": "tiarsarifki@gmail.com",
+    "password": "*****"
+  },
+  "level": "info",
+  "msg": "Starting to validation required fields for login",
+  "time": "2024-11-25 21:39:14"
+}
+{
+  "data": {
+    "email": "tiarsarifki@gmail.com",
+    "password": "*****"
+  },
+  "level": "info",
+  "msg": "Starting to login a customer",
+  "time": "2024-11-25 21:39:14"
+}
+{
+  "data": {
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lIjoiUmlma2kiLCJlbWFpbCI6InRpYXJzYXJpZmtpQGdtYWlsLmNvbSIsImlzcyI6InRpYXJzYXJpZmtpIiwiZXhwIjoxNzMyNTQ5MTU1LCJpYXQiOjE3MzI1NDU1NTV9.lBVv0ynQpci99h1Laeju_aALBFlgWWWKev-qpLo_G8I"
+  },
+  "level": "info",
+  "msg": "Successfully logged in a customer",
+  "time": "2024-11-25 21:39:15"
+}
+{
+  "data": null,
+  "level": "info",
+  "msg": "Logged out successfully",
+  "time": "2024-11-25 21:39:42"
+}
+{
+  "data": null,
+  "level": "info",
+  "msg": "Logged out successfully",
+  "time": "2024-11-25 21:40:20"
+}
+{
+  "data": null,
+  "level": "info",
+  "msg": "Starting to binding a payload",
+  "time": "2024-11-25 23:00:03"
+}
+{
+  "data": {
+    "email": "tiarsa@gmail.com",
+    "password": "*****"
+  },
+  "level": "info",
+  "msg": "Starting to validation required fields a new customer",
+  "time": "2024-11-25 23:00:03"
+}
+{
+  "data": {
+    "email": "tiarsa@gmail.com",
+    "password": "*****"
+  },
+  "level": "info",
+  "msg": "Starting to create a new customer",
+  "time": "2024-11-25 23:00:03"
+}
+{
+  "data": {
+    "id": 4,
+    "name": "Tiarsa",
+    "email": "tiarsa@gmail.com",
+    "password": "$2a$10$0YwoFfWoH2GJNKV8jWiileZA/BRSEYbzaaU4woywtcb4FsRb9AlIe",
+    "created_at": "2024-11-25T23:00:03.326005691+07:00",
+    "updated_at": "2024-11-25T23:00:03.326006186+07:00"
+  },
+  "level": "info",
+  "msg": "Successfully created a new customer",
+  "time": "2024-11-25 23:00:03"
+}
+{
+  "data": null,
+  "level": "info",
+  "msg": "Starting to binding a payload",
+  "time": "2024-11-25 23:04:23"
+}
+{
+  "data": {
+    "email": "tiarsarifki@gmail.com",
+    "password": "*****"
+  },
+  "level": "info",
+  "msg": "Starting to validation required fields for login",
+  "time": "2024-11-25 23:04:23"
+}
+{
+  "data": {
+    "email": "tiarsarifki@gmail.com",
+    "password": "*****"
+  },
+  "level": "info",
+  "msg": "Starting to login a customer",
+  "time": "2024-11-25 23:04:23"
+}
+{
+  "data": {
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lIjoiUmlma2kiLCJlbWFpbCI6InRpYXJzYXJpZmtpQGdtYWlsLmNvbSIsImlzcyI6InRpYXJzYXJpZmtpIiwiZXhwIjoxNzMyNTU0MjYzLCJpYXQiOjE3MzI1NTA2NjN9.0PDXs2GO9bpf5BohY0kC4xYR4hZMRL1DiYhBhfdnPHE"
+  },
+  "level": "info",
+  "msg": "Successfully logged in a customer",
+  "time": "2024-11-25 23:04:23"
+}
+{
+  "data": null,
+  "level": "info",
+  "msg": "Starting to binding a payload",
+  "time": "2024-11-25 23:11:11"
+}
+{
+  "data": "EOF",
+  "level": "error",
+  "msg": "Invalid payload for login",
+  "time": "2024-11-25 23:11:11"
+}
+{
+  "data": null,
+  "level": "info",
+  "msg": "Starting to binding a payload",
+  "time": "2024-11-25 23:11:23"
+}
+{
+  "data": {
+    "email": "tiarsarifki@gmail.com",
+    "password": "*****"
+  },
+  "level": "info",
+  "msg": "Starting to validation required fields for login",
+  "time": "2024-11-25 23:11:23"
+}
+{
+  "data": {
+    "email": "tiarsarifki@gmail.com",
+    "password": "*****"
+  },
+  "level": "info",
+  "msg": "Starting to login a customer",
+  "time": "2024-11-25 23:11:23"
+}
+{
+  "data": {
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lIjoiUmlma2kiLCJlbWFpbCI6InRpYXJzYXJpZmtpQGdtYWlsLmNvbSIsImlzcyI6InRpYXJzYXJpZmtpIiwiZXhwIjoxNzMyNTU0Njg0LCJpYXQiOjE3MzI1NTEwODR9.Ru_LTCU30IwScZUVOo1kJk1OerhizPAL7OsyiJZ_bHE"
+  },
+  "level": "info",
+  "msg": "Successfully logged in a customer",
+  "time": "2024-11-25 23:11:24"
+}
+{
+  "data": null,
+  "level": "info",
+  "msg": "Starting to binding a payload",
+  "time": "2024-11-25 23:11:45"
+}
+{
+  "data": {
+    "id": 0,
+    "customer_id": 3,
+    "merchant_id": 3,
+    "product_id": 1,
+    "payment_method": "BCA",
+    "created_at": "0001-01-01T00:00:00Z",
+    "updated_at": "0001-01-01T00:00:00Z"
+  },
+  "level": "info",
+  "msg": "Starting to create a new topup",
+  "time": "2024-11-25 23:11:45"
+}
+{
+  "data": {
+    "id": 14,
+    "customer_id": 3,
+    "merchant_id": 3,
+    "product_id": 1,
+    "payment_method": "BCA",
+    "status": "pending",
+    "created_at": "2024-11-25T23:11:45.566328394+07:00",
+    "updated_at": "2024-11-25T23:11:45.566328473+07:00"
+  },
+  "level": "info",
+  "msg": "Successfully created topup",
+  "time": "2024-11-25 23:11:45"
+}
+{
+  "data": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lIjoiUmlma2kiLCJlbWFpbCI6InRpYXJzYXJpZmtpQGdtYWlsLmNvbSIsImlzcyI6InRpYXJzYXJpZmtpIiwiZXhwIjoxNzMyNTU0Njg0LCJpYXQiOjE3MzI1NTEwODR9.Ru_LTCU30IwScZUVOo1kJk1OerhizPAL7OsyiJZ_bHE",
+  "level": "info",
+  "msg": "Starting to add token to blacklist",
+  "time": "2024-11-25 23:16:10"
+}
+{
+  "data": null,
+  "level": "info",
+  "msg": "Logged out successfully",
+  "time": "2024-11-25 23:16:10"
+}
+{
+  "data": null,
+  "level": "info",
+  "msg": "Starting to binding a payload",
+  "time": "2024-11-25 23:16:46"
+}
+{
+  "data": {
+    "email": "tiarsarifki@gmail.com",
+    "password": "*****"
+  },
+  "level": "info",
+  "msg": "Starting to validation required fields for login",
+  "time": "2024-11-25 23:16:46"
+}
+{
+  "data": {
+    "email": "tiarsarifki@gmail.com",
+    "password": "*****"
+  },
+  "level": "info",
+  "msg": "Starting to login a customer",
+  "time": "2024-11-25 23:16:46"
+}
+{
+  "data": {
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lIjoiUmlma2kiLCJlbWFpbCI6InRpYXJzYXJpZmtpQGdtYWlsLmNvbSIsImlzcyI6InRpYXJzYXJpZmtpIiwiZXhwIjoxNzMyNTU1MDA3LCJpYXQiOjE3MzI1NTE0MDd9.O4QZz5B0TDDIlcuClOagydhd3vQg4Ru9gEu5fjghgrw"
+  },
+  "level": "info",
+  "msg": "Successfully logged in a customer",
+  "time": "2024-11-25 23:16:47"
+}
+{
+  "data": null,
+  "level": "info",
+  "msg": "Starting to binding a payload",
+  "time": "2024-11-25 23:17:05"
+}
+{
+  "data": {
+    "topup_id": 14,
+    "amount": 10000,
+    "price": 11000,
+    "payment_method": "BCA",
+    "payment_status": "Done"
+  },
+  "level": "info",
+  "msg": "Starting to update the topup data",
+  "time": "2024-11-25 23:17:05"
+}
+{
+  "data": null,
+  "level": "info",
+  "msg": "Successfully updated topup",
+  "time": "2024-11-25 23:17:05"
+}
+{
+  "data": null,
+  "level": "info",
+  "msg": "Starting to binding a payload",
+  "time": "2024-11-25 23:32:53"
+}
+{
+  "data": {
+    "email": "john.doe@example.com",
+    "password": "*****"
+  },
+  "level": "info",
+  "msg": "Starting to validation required fields for login",
+  "time": "2024-11-25 23:32:53"
+}
+{
+  "data": {
+    "email": "john.doe@example.com",
+    "password": "*****"
+  },
+  "level": "info",
+  "msg": "Starting to login a customer",
+  "time": "2024-11-25 23:32:53"
+}
+{
+  "data": "Invalid email or password",
+  "level": "error",
+  "msg": "Failed to login a customer",
+  "time": "2024-11-25 23:32:53"
+}
+{
+  "data": null,
+  "level": "info",
+  "msg": "Starting to binding a payload",
+  "time": "2024-11-25 23:33:26"
+}
+{
+  "data": {
+    "email": "john.doe@example.com",
+    "password": "*****"
+  },
+  "level": "info",
+  "msg": "Starting to validation required fields for login",
+  "time": "2024-11-25 23:33:26"
+}
+{
+  "data": {
+    "email": "john.doe@example.com",
+    "password": "*****"
+  },
+  "level": "info",
+  "msg": "Starting to login a customer",
+  "time": "2024-11-25 23:33:26"
+}
+{
+  "data": "Invalid email or password",
+  "level": "error",
+  "msg": "Failed to login a customer",
+  "time": "2024-11-25 23:33:26"
+}
+{
+  "data": null,
+  "level": "info",
+  "msg": "Starting to binding a payload",
+  "time": "2024-11-25 23:33:49"
+}
+{
+  "data": {
+    "email": "tiarsa@gmail.com",
+    "password": "*****"
+  },
+  "level": "info",
+  "msg": "Starting to validation required fields a new customer",
+  "time": "2024-11-25 23:33:49"
+}
+{
+  "data": {
+    "email": "tiarsa@gmail.com",
+    "password": "*****"
+  },
+  "level": "info",
+  "msg": "Starting to create a new customer",
+  "time": "2024-11-25 23:33:49"
+}
+{
+  "data": {
+    "id": 8,
+    "name": "Tiarsa",
+    "email": "tiarsa@gmail.com",
+    "password": "$2a$10$o0fJNkXXgn/UOjTmb5p8TePHUy4wrXVhpgDPEV3vykdVABLs6XaxC",
+    "created_at": "2024-11-25T23:33:49.596155416+07:00",
+    "updated_at": "2024-11-25T23:33:49.596155762+07:00"
+  },
+  "level": "info",
+  "msg": "Successfully created a new customer",
+  "time": "2024-11-25 23:33:49"
+}
+{
+  "data": null,
+  "level": "info",
+  "msg": "Starting to binding a payload",
+  "time": "2024-11-25 23:34:27"
+}
+{
+  "data": {
+    "email": "tiarsa@gmail.com",
+    "password": "*****"
+  },
+  "level": "info",
+  "msg": "Starting to validation required fields for login",
+  "time": "2024-11-25 23:34:27"
+}
+{
+  "data": {
+    "email": "tiarsa@gmail.com",
+    "password": "*****"
+  },
+  "level": "info",
+  "msg": "Starting to login a customer",
+  "time": "2024-11-25 23:34:27"
+}
+{
+  "data": {
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lIjoiVGlhcnNhIiwiZW1haWwiOiJ0aWFyc2FAZ21haWwuY29tIiwiaXNzIjoidGlhcnNhcmlma2kiLCJleHAiOjE3MzI1NTYwNjcsImlhdCI6MTczMjU1MjQ2N30.oXudm49s-lXxrXB-F8xWFoxZ61fJAbz69rE6MG0UYtY"
+  },
+  "level": "info",
+  "msg": "Successfully logged in a customer",
+  "time": "2024-11-25 23:34:27"
+}
+{
+  "data": null,
+  "level": "info",
+  "msg": "Starting to binding a payload",
+  "time": "2024-11-25 23:36:03"
+}
+{
+  "data": {
+    "id": 0,
+    "customer_id": 8,
+    "merchant_id": 4,
+    "product_id": 6,
+    "payment_method": "BCA",
+    "created_at": "0001-01-01T00:00:00Z",
+    "updated_at": "0001-01-01T00:00:00Z"
+  },
+  "level": "info",
+  "msg": "Starting to create a new topup",
+  "time": "2024-11-25 23:36:03"
+}
+{
+  "data": {
+    "id": 15,
+    "customer_id": 8,
+    "merchant_id": 4,
+    "product_id": 6,
+    "payment_method": "BCA",
+    "status": "pending",
+    "created_at": "2024-11-25T23:36:03.354685208+07:00",
+    "updated_at": "2024-11-25T23:36:03.354685284+07:00"
+  },
+  "level": "info",
+  "msg": "Successfully created topup",
+  "time": "2024-11-25 23:36:03"
+}
+{
+  "data": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lIjoiVGlhcnNhIiwiZW1haWwiOiJ0aWFyc2FAZ21haWwuY29tIiwiaXNzIjoidGlhcnNhcmlma2kiLCJleHAiOjE3MzI1NTYwNjcsImlhdCI6MTczMjU1MjQ2N30.oXudm49s-lXxrXB-F8xWFoxZ61fJAbz69rE6MG0UYtY",
+  "level": "info",
+  "msg": "Starting to add token to blacklist",
+  "time": "2024-11-25 23:36:24"
+}
+{
+  "data": null,
+  "level": "info",
+  "msg": "Logged out successfully",
+  "time": "2024-11-25 23:36:24"
+}
+{
+  "data": null,
+  "level": "info",
+  "msg": "Starting to binding a payload",
+  "time": "2024-11-25 23:37:13"
+}
+{
+  "data": {
+    "email": "tiarsa@gmail.com",
+    "password": "*****"
+  },
+  "level": "info",
+  "msg": "Starting to validation required fields for login",
+  "time": "2024-11-25 23:37:13"
+}
+{
+  "data": {
+    "email": "tiarsa@gmail.com",
+    "password": "*****"
+  },
+  "level": "info",
+  "msg": "Starting to login a customer",
+  "time": "2024-11-25 23:37:13"
+}
+{
+  "data": {
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lIjoiVGlhcnNhIiwiZW1haWwiOiJ0aWFyc2FAZ21haWwuY29tIiwiaXNzIjoidGlhcnNhcmlma2kiLCJleHAiOjE3MzI1NTYyMzMsImlhdCI6MTczMjU1MjYzM30.2ftFQywXdP7twsC9ypSNNvLVD3sHm3PVcD8v3qxBYug"
+  },
+  "level": "info",
+  "msg": "Successfully logged in a customer",
+  "time": "2024-11-25 23:37:13"
+}
+{
+  "data": null,
+  "level": "info",
+  "msg": "Starting to binding a payload",
+  "time": "2024-11-25 23:37:31"
+}
+{
+  "data": {
+    "topup_id": 15,
+    "amount": 10000,
+    "price": 11000,
+    "payment_method": "BCA",
+    "payment_status": "Done"
+  },
+  "level": "info",
+  "msg": "Starting to update the topup data",
+  "time": "2024-11-25 23:37:31"
+}
+{
+  "data": null,
+  "level": "info",
+  "msg": "Successfully updated topup",
+  "time": "2024-11-25 23:37:31"
+}
