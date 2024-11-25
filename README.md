@@ -1,4 +1,4 @@
-# Marketplace
+# Marketplace API
 
 ## Feature
 - Topup E Wallet
@@ -7,29 +7,33 @@
 - GO
 
 ## Library
-- godotenv  : go get github.com/joho/godotenv
-- testify   : go get github.com/stretchr/testify
-- jwt       : go get -u github.com/golang-jwt/jwt/v5
-- logger    : go get github.com/sirupsen/logrus
+- `godotenv`  : `go get github.com/joho/godotenv`
+- `jwt`       : `go get -u github.com/golang-jwt/jwt/v5`
+- `logger`    : `go get github.com/sirupsen/logrus`
 
 ## Framework
-- gin       : go get github.com/gin-gonic/gin
+- `gin`       : `go get github.com/gin-gonic/gin`
 
 ## Database
-- postgres  : go get github.com/lib/pq
+- `postgres`  : `go get github.com/lib/pq`
 
 ## Caching
-- redis : go get github.com/redis/go-redis/v9
+- `redis` : `go get github.com/redis/go-redis/v9`
+
+---
 
 ## Installation
 1. Clone Repository
-    https://github.com/RifkiTiarsa/Technical-Test.git
+   ```bash
+   https://github.com/RifkiTiarsa/Technical-Test.git
 2. Run DDL.sql and DML.sql in the assets directory for initial data
 3. Create a .env file and copy the example that is in the env_example
 4. Install necessary dependencies
-    go mod tidy
+   ```bash
+   go mod tidy
 5. Run the application
-    go run .
+   ```bash
+   go run .
 
 ## API Spesification
 - Register
