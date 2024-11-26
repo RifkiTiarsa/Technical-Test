@@ -36,24 +36,42 @@
    go run .
 
 ## API Spesification
-- Register
-Request :
-    - Method    : POST
-    - Endpoint  : api/v1/customer/register
-    - Header    : 
-        - Content-Type  : application/json
-        - Accept        : application/json
-    - Body      :
-        {
-            "name"       : "Rifki",
-            "email"      : "tiarsarifki@gmail.com",
-            "password"   : "rahasia"
-        }
-Response  :
-    - Status    : 201 Created
-    - Body      :
+### Register
+**Request**  
+- **Method**: `POST`  
+- **Endpoint**: `/api/v1/customer/register`  
+- **Headers**:  
+  - `Content-Type`: `application/json`  
+  - `Accept`: `application/json`  
+- **Body**:
+  ```json
+  {
+    "name": "Rifki",
+    "email": "tiarsarifki@gmail.com",
+    "password": "rahasia"
+  }
+
+**Response**
+-  **Status**    : `201 Created`
+-  **Body**      :
+   ```json
       {
-          {"status":{"code":201,"message":"Created"},"data":{"id":4,"name":"Tiarsa","email":"tiarsa@gmail.com","password":"$2a$10$0YwoFfWoH2GJNKV8jWiileZA/BRSEYbzaaU4woywtcb4FsRb9AlIe","created_at":"2024-11-25T23:00:03.326005691+07:00","updated_at":"2024-11-25T23:00:03.326006186+07:00"}}
+          { 
+            "status":
+                {
+                    "code":201,
+                    "message":"Created"
+                },
+            "data":
+                {
+                    "id":4,
+                    "name":"Tiarsa",
+                    "email":"tiarsa@gmail.com",
+                    "password":"$2a$10$0YwoFfWoH2GJNKV8jWiileZA/BRSEYbzaaU4woywtcb4FsRb9AlIe",
+                    "created_at":"2024-11-25T23:00:03.326005691+07:00",
+                    "updated_at":"2024-11-25T23:00:03.326006186+07:00"
+                }
+          }
       }
 
 - Login
